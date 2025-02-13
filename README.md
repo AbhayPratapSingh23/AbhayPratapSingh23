@@ -1,5 +1,3 @@
-![logo](bannergit.png)
-
 <h1 align="center">Hi 👋, I'm Abhay Pratap Singh</h1>
 <h3 align="center">A passionate CSE BTech 3rd year Student from India</h3>
 
@@ -9,7 +7,7 @@
 
 - 🌱 I’m currently learning **Backend Development and DSA with JAVA**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Abhishek-Kumar-Ghub?tab=repositories](https://github.com/Abhishek-Kumar-Ghub?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/AbhayPratapSingh23?tab=repositories](https://github.com/AbhayPratapSingh23?tab=repositories)
 
 - ⚡ Fun fact **I have a pet turtle named Speedy 🐢🏎️.**
 
@@ -18,7 +16,7 @@
 <a href="https://codepen.io/@abhishek_-013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@abhishek_-013" height="30" width="40" /></a>
 <a href="https://twitter.com/art_by_abhiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="art_by_abhiii" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhishek kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek kumar" height="30" width="40" /></a>
-<a href="https://instagram.com/abhishek_.013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhishek_.013" height="30" width="40" /></a>
+<a href="https://www.instagram.com/xclusive_aps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xclusive_aps" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@kabhishek96960" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@kabhishek96960" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kabhishek2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kabhishek2005" height="30" width="40" /></a>
 </p>
