@@ -13,12 +13,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@abhishek_-013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@abhishek_-013" height="30" width="40" /></a>
-<a href="https://twitter.com/art_by_abhiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="art_by_abhiii" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abhishek kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek kumar" height="30" width="40" /></a>
+
+
+<a href="https://www.linkedin.com/in/abhay-pratap-singh-589b73266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek kumar" height="30" width="40" /></a>
 <a href="https://www.instagram.com/xclusive_aps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xclusive_aps" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@kabhishek96960" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@kabhishek96960" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kabhishek2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kabhishek2005" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
