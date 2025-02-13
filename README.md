@@ -1,4 +1,4 @@
-![logo](https://github.com/Abhishek-Kumar-Ghub/Abhishek_kumar/blob/main/Black%20and%20White%20Modern%20LinkedIn%20Banner.png)
+![logo](bannergit.png)
 
 <h1 align="center">Hi 👋, I'm Abhay Pratap Singh</h1>
 <h3 align="center">A passionate CSE BTech 3rd year Student from India</h3>
