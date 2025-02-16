@@ -1,3 +1,4 @@
+![Abhay Pratap Singh](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/trilokia.svg)
 <h1 align="center">Hi 👋, I'm Abhay Pratap Singh</h1>
 <h3 align="center">A passionate BTech CSE 3rd year Student from India</h3>
 
